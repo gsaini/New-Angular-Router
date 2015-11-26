@@ -1,0 +1,22 @@
+{
+  "name": "new-angular-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsaini/new-angular-router.git"
+  },
+  "keywords": [
+    "newNgRoute"
+  ],
+  "author": "Gopal Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsaini/new-angular-router/issues"
+  },
+  "homepage": "https://github.com/gsaini/new-angular-router#readme"
+}
